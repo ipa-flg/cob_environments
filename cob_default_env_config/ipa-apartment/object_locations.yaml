@@ -371,3 +371,15 @@ cb_9x6:
   model_type: urdf
   position: [-0.7, -0.1, 1]
   orientation: [1.56, 0, 1.56]
+
+box_parking_1:
+  model: box_parking
+  model_type: urdf
+  position: [3.5, 0.0, 0.5]
+  orientation: [0, 0, 0]
+
+box_parking_2:
+  model: box_parking
+  model_type: urdf
+  position: [3.5, -1.9, 0.5]
+  orientation: [0, 0, 0]
