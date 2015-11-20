@@ -1,0 +1,30 @@
+source_id: "laserscan"
+features:
+  - id: 1
+    source: [0.0, -1.5, 0.0]
+    target: [2.0, -1.5, 0.0]
+    description: line_1
+  - id: 2
+    source: [0.0, 1.5, 0.0]
+    target: [2.0, 1.5, 0.0]
+    description: line_2
+  - id: 3
+    source: [-1.0, -1.0, 0.0]
+    target: [-1.0, 1.0, 0.0]
+    description: line_3
+#  - id: 4
+#    source: [6.86069, -4.51252, 0.0]
+#    target: [5.69432, -5.52776, 0.0]
+#    description: line_4
+#  - id: 5
+#    source: [5.6968, -5.57291, 0.0]
+#    target: [5.43305, -10.1011, 0.0]
+#    description: line_5
+#  - id: 6
+#    source: [5.44694, -10.0595, 0.0]
+#    target: [-2.66639, -9.59287, 0.0]
+#    description: line_6
+#  - id: 7
+#    source: [-2.67592, -9.59376, 0.0]
+#    target: [-2.34502, -4.28907, 0.0]
+#    description: line_7
