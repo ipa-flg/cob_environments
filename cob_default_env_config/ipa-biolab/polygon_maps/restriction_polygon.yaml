@@ -1,0 +1,4 @@
+restricted areas: 
+  - id: 1
+    points: [[3.75, 2.48],[3.75, 2.58],[1.61, 2.58],[1.61, -2.48]]
+    description: single_dynamic_obstacle
