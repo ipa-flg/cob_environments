@@ -18,3 +18,7 @@ restricted areas:
   - id: 5
     points: [[1.5, 0.0],[1.5, 2.64],[1.4, 2.64],[1.4, 0.0]]
     description: multi_intersection_add_second
+
+  - id: 6
+    points: [[0.0, 1.6],[3.2, 1.6],[3.2, 1.7],[0.0, 1.7]]
+    description: multi_corridor 
