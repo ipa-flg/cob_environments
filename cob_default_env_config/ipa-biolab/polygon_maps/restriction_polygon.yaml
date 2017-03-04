@@ -2,3 +2,11 @@ restricted areas:
   - id: 1
     points: [[3.75, 2.48],[3.75, 2.58],[1.61, 2.58],[1.61, 2.48]]
     description: single_dynamic_obstacle
+
+  - id: 2
+    points: [[3.5, 0.0],[3.5, 2.64],[3.4, 2.64],[3.4, 0.0]]
+    description: multi_switch_corners_basic
+
+  - id: 2
+    points: [[3.75, 3.9],[3.75, 5.0],[1.61, 3.9],[1.61, 5.0]]
+    description: multi_switch_corners_add
