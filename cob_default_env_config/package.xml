@@ -3,12 +3,12 @@
   <version>0.6.4</version>
   <description>This package contains configuration files for the default environments for Care-O-bot supported by IPA.</description>
 
-  <license>LGPL</license>
+  <license>Apache 2.0</license>
 
   <url type="website">http://ros.org/wiki/cob_default_env_config</url>
   <!-- <url type="bugtracker"></url> -->
 
-  <maintainer email="nhg@ipa.fhg.de">Nadia Hammoudeh Garcia</maintainer>
+  <maintainer email="jba@ipa.fhg.de">Jannik Abbenseth</maintainer>
   <author email="fmw@ipa.fhg.de">Florian Weisshardt</author>
 
   <buildtool_depend>catkin</buildtool_depend>
